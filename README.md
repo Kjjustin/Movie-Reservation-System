@@ -71,5 +71,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any inquiries, feel free to reach out via [GitHub Issues](https://github.com/Kjjustin/Movie-Reservation-System/issues).
+ For queries or suggestions, reach out to [K J Justin](https://github.com/Kjjustin/Movie-Reservation-System/issues).
 
